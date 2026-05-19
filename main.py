@@ -43,7 +43,7 @@ import uvicorn
 GROQ_API_KEY  = os.getenv("GROQ_API_KEY", "")
 WHISPER_MODEL = "whisper-large-v3-turbo"   # fastest
 LLM_MODEL     = "llama-3.3-70b-versatile"
-TTS_VOICE     = "hi-IN-NeerjaNeural"        # natural Hindi female
+TTS_VOICE     = "hi-IN-MadhurNeural"        # natural Hindi female
 TTS_RATE      = "+8%"
 TTS_PITCH     = "0Hz"
 
